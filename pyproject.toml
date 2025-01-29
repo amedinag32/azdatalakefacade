@@ -1,0 +1,18 @@
+[project]
+name = "azdatalakefacade"
+version = "1.0.4"
+authors = [
+  { name="Alan Medina", email="amedina.escom@hotmail.com" },
+]
+description = "A package to implement a singleton for azure data storage gen2"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/amedinag32/azdatalakefacade"
+Issues = "https://github.com/amedinag32/azdatalakefacade"
